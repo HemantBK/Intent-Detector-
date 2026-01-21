@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.local
+firebase-credentials.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Database
+*.db
+*.sqlite
